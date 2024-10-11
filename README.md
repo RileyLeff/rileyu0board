@@ -13,3 +13,4 @@ If I'm able to come up with something useful here, I'll flesh out the docs and w
 - What the hell am i supposed to do with analog signals regarding EMI/noise stuff? e.g. especially with regards to amplifying analog signals to go into ADC
 - Get lowpowerpilled: how much does underclocking/undervolting help?
 - if i have some peripheral device e.g. i2c sensor where quiescent power consumption is much higher than my idle MCU, how can i cut off consumption when i'm not using it?
+- I have legitimately no idea how oscillators work and i need pretty accurate time for my projects
