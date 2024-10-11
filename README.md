@@ -8,6 +8,12 @@ Down the road (maybe a long time from now) I'd like to develop some open-source 
 
 If I'm able to come up with something useful here, I'll flesh out the docs and write a BSP in rust. But highly likely that I get 3/4 of the way done with this and feel like i've learned enough to move on to designing a non-toy project. We'll see.
 
+## Current Status
+
+I went in there and connected a bunch of stuff incorrectly. Hell yeah.
+
+I think next steps for me are 1.) figuring out library management, then 2.) making an extremely barebones breakout for just the MCU and perhaps a separately-broken-out USB connector. Would probably be instructive for me to breadboard up the oscillator, ADC, USB, etc connections by hand and confirming i understand how they work before yeeting them off into the JLCPCB abyss for manufacture.
+
 ## Stuff Riley Needs To Figure Out
 
 - it would be nice to have a precommit that generates a new .pdf of the schematic every time i commit
